@@ -2,6 +2,15 @@
 Datasets consisting images of insect pests and leaf diseases found on the corn plant. The insect pest classes include fall armyworm, corn borer, corn flea beetle, corn aphid, white grub, and wireworm. The leaf disease classes include common rust, gray leaf spot, and northern leaf blight. </br>
 
 <img src="https://github.com/mathewGlenn/Corn-Pest-Dataset/blob/master/_1.png">
+Corn insect pests
+<br>
+<br>
+<br>
+<br>
+<img src="https://github.com/mathewGlenn/Corn-Pest-Dataset/blob/master/_2.png">
+Corn leaf diseases
+<br>
+<br>
 
 The images of corn leaf diseases were obtained from the [Plant Village dataset](https://github.com/spMohanty/PlantVillage-Dataset) and [PlantDoc dataset](https://github.com/pratikkayal/PlantDoc-Dataset).
 The images of corn insect pests were obtained from the [IP102 dataset](https://github.com/xpwu95/IP102). Duplicate images were removed from the datasets along with mislabeled images. 

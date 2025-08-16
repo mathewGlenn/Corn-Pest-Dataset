@@ -22,7 +22,7 @@ PlantVillage dataset: (https://arxiv.org/abs/1511.08060)<br />
 PlantDoc dataset: (https://arxiv.org/abs/1911.10317)<br />
 IP102 dataset: (https://ieeexplore.ieee.org/document/8954351)<br />
 
-## Published Paper
+## Published paper
 Corn Pest Identification Using Mobile CNNs with Deep Transfer Learning (https://jestec.taylors.edu.my/Special%20Issue%20ICITE2022/ICITE_2022_13.pdf)
 
 ## License
